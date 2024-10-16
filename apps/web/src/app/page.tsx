@@ -14,7 +14,7 @@ export default function Page() {
       <div className="absolute inset-0 bg-gradient-to-t from-background to-transparent pointer-events-none -z-10" />
 
       <h1 className="font-departure text-[40px] md:text-[84px] relative z-10 text-center h-[120px] md:h-auto leading-tight">
-        <AnimatedText text="Production ready code" />
+        <AnimatedText text="dmr369" />
       </h1>
 
       <p className="relative z-10 text-center max-w-[80%] mt-0 md:mt-4">
